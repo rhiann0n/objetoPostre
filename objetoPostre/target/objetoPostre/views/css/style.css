@@ -1,0 +1,22 @@
+.contenedor1{
+    align-items: center;
+    justify-content: center;
+}
+table, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    padding: 25px;
+    text-align: center;
+    color: thistle;
+}
+
+body{
+    background-color: mediumpurple;
+    font-family: Verdana;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

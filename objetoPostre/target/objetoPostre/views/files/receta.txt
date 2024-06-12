@@ -1,0 +1,5 @@
+{"receta":[
+{"tipo":"tarta","sabor":"fresa","textura":"cremosa","temperatura":"fría"},
+{"tipo":"flan","sabor":"vainilla","textura":"gelatinosa","temperatura":"frío"},
+{"tipo":"panqueque","sabor":"chocolate y nata","textura":"esponjosa","temperatura":"caliente"}
+]}
